@@ -1,4 +1,4 @@
-A person who ddosen't what the hell they are doing
+A person who dosen't what the hell they are doing
 
 <!---
 JustaTurtle21/JustaTurtle21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
